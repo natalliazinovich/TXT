@@ -1,4 +1,7 @@
-Zinovich Natallia
+Surname: Zinovich 
+Name: Natallia
 Age: 35
-no animals
-1000 dollars
+Animals: no 
+Salary: 1000 
+
+
